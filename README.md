@@ -5,13 +5,6 @@ Built with TypeScript.
 
 Stores submissions in a JSON file (db.json).
 
-### Endpoints:
-/ping: A GET request that returns True, ensuring the server is running.
-
-/submit: A POST request that accepts parameters name, email, phone, github_link, and stopwatch_time to save a new submission.
-
-/read: A GET request with a query parameter index to retrieve the (index+1)th form submission.
-
 ### Database Structure (db.json):
 Structured to store an array of submission objects with fields for name, email, phone, GitHub link, and stopwatch time.
 
