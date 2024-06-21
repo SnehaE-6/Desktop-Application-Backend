@@ -60,3 +60,11 @@ Ensure /read retrieves a submission from db.json based on the index query parame
 
 ### GitHub Repositories:
 Desktop Application: https://github.com/SnehaE-6/Desktop-Application.git
+
+![WhatsApp Image 2024-06-21 at 9 31 22 PM](https://github.com/SnehaE-6/Desktop-Application-Backend/assets/121658996/e12a9dd5-0ddd-4258-8882-e7ffcbdced7a)
+
+![WhatsApp Image 2024-06-21 at 9 31 29 PM](https://github.com/SnehaE-6/Desktop-Application-Backend/assets/121658996/7e382b19-1272-4870-a70e-71b35ffa668c)
+
+![WhatsApp Image 2024-06-21 at 9 31 31 PM](https://github.com/SnehaE-6/Desktop-Application-Backend/assets/121658996/98a6b162-c07e-4dbc-a389-742a8498d12d)
+
+![WhatsApp Image 2024-06-21 at 9 31 32 PM](https://github.com/SnehaE-6/Desktop-Application-Backend/assets/121658996/e81d87ca-02fb-4a8b-835d-566ce696d3ab)
